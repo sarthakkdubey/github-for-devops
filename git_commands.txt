@@ -1,0 +1,12 @@
+- git init
+- git status
+	- untracked
+	- staged 
+	- tracked
+- git add file_name
+- git add .
+- git commit -m "comment"
+- git restore file_name
+- git push origin main
+- git remote add origin <github repo url>
+- git remote -v
