@@ -1,3 +1,4 @@
+------- BASIC COMMANDS -------
 - git init
 - git status
 	- untracked
@@ -10,3 +11,11 @@
 - git push origin main
 - git remote add origin <github repo url>
 - git remote -v
+- git pull
+- git fetch
+
+--------- BRANCHING ----------
+
+- git branch
+- git branch _branch_name_
+- git switch _branch_name_
